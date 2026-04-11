@@ -1,8 +1,8 @@
 # this
 
-[plan for solid on Trixie](https://hackmd.io/EOTp63MqRBmaOdxa_4BH_w?view)
+[plan for solid on Trixie (outdated)](https://hackmd.io/EOTp63MqRBmaOdxa_4BH_w?view)
 
-[fallback plan solidweb.app](https://hackmd.io/YnMXe517TlyMMv6L4UKpYg?view)
+[plan for solidweb.app (current)](https://hackmd.io/4faoeQ_USYKMXjreAd3Ldg?view)
 
 for now only hackmd links,
 easily can create gists or desired markdown flavour
